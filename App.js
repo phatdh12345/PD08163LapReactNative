@@ -5,7 +5,7 @@ import Lap4 from './scr/screen/lap4';
 import ViewComponent from './scr/screen/lap3';
 
 const App = () => {
-  return <Lap3></Lap3>;
+  return <Lap4></Lap4>;
 };
 
 export default App;
